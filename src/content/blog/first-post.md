@@ -1,7 +1,7 @@
 ---
 title: "迪奥娜小故事1"
 description: "测试"
-pubDate: "2025年12月17日"
+pubDate: "2025-12-17"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
